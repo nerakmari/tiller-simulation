@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Roboto:wght@700&display=swap');
+
+body {
+  font-family: 'Lato', sans-serif;
+  text-align: center;
+}
+
+h1, h2, h3 {
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  font-size: 50px;
+
+  padding: 150px 300px 10px 300px;
+}
+
+h2 {
+  font-size: 40px;
+  text-align: center;
+  color: #041C2C;
+}
+
+.h3 {
+  color: white;
+}
+
+.first, .second, .third {
+  color: white;
+}
+
+.advantage h3 {
+  font-size: 30px;
+}
+
+.advantage p {
+  font-size: 20px;
+}
+
+.book h2 {
+  color: white;
+}
+
